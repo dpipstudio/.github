@@ -32,7 +32,7 @@ We focus on:
 > **Build, Publish, Repeat.**
 
 Every project we touch is driven by purpose, privacy, and perseverance.  
-We don't chase trends — we build what we believe in, and we iterate fast.
+We don't chase trends - we build what we believe in, and we iterate fast.
 
 ---
 
