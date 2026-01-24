@@ -6,7 +6,7 @@
 
 <p align="center">
   Building the future through innovative design and cutting-edge technology. <br />
-  <strong>We craft digital experiences that make a difference.</strong>
+  <strong>We craft experiences that make a difference.</strong>
 </p>
 
 <p align="center">
